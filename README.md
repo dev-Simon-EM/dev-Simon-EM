@@ -14,11 +14,16 @@ I’m a Computer Science undergraduate interested in AI systems engineering, sof
 
 ## Selected individual projects
 
+- [Forex AI Agent](https://github.com/dev-Simon-EM/Forex-AI-Agent) — Python and MetaTrader 5 assistant for explainable M1–W1 forex market analysis, SMC price action, order-block charting, and local journaling. Current version is analysis-only; it does not place or modify orders.
 - [Personal Portfolio](https://github.com/dev-Simon-EM/Personal-Portfolio) — portfolio website built with React, TypeScript, and Vite.
 - [GoodAngel D Travel and Tour](https://github.com/dev-Simon-EM/GoodAngel-D-Travel-and-Tour) — multi-page static website for travel, tourism, and study-abroad service information.
+- [Birthday Celebration](https://github.com/dev-Simon-EM/Birthday-Celebration) — static birthday-wish request experience with a live preview and a user-reviewed email handoff.
+- [Cybersecurity & Networking Portfolio](https://github.com/dev-Simon-EM/Cyber-Security) — SIWES learning portfolio covering networking fundamentals, subnetting, VLANs, routing, access control, and a Packet Tracer university network project.
+- [Group E Python Assessment](https://github.com/dev-Simon-EM/Group-E-Python-Assessment) — collaborative Python coursework notebook containing a basic arithmetic exercise that estimates elapsed time from a number of combinations and a rate.
+- [Python Learning Repository](https://github.com/dev-Simon-EM/Python-) — repository reserved for Python exercises; currently empty and not yet a runnable project.
 - [Dall-Tech](https://github.com/dev-Simon-EM/Dall-Tech) — front-end concept site for a technology services brand. The repository does not implement its advertised backend or operational security services.
 - [Dall-Global-Ventures](https://github.com/dev-Simon-EM/Dall-Global-Ventures) — front-end business presentation concept for an agricultural venture.
-- [Heavens Gate Atelier](https://github.com/dev-Simon-EM/heavens-gate-atelier) — React and TypeScript website for an atelier brand.
+- [Heavens Gate Atelier](https://github.com/dev-Simon-EM/heavens-gate-atelier) — React, TypeScript, and Vite website presenting clothing repairs, alterations, special-occasion services, and customer inquiry paths.
 
 ## Collaborative projects
 
@@ -40,7 +45,6 @@ These technologies are evidenced in individual or team repositories; this list i
 
 ## Work in progress and concepts
 
-- **AI Forex Analysis Agents** — a local project that has not been published on GitHub. Its implementation and agent autonomy have not yet been reviewed for this portfolio. Any future description should distinguish market-data retrieval and analysis from trade execution.
 - **Dall Tech Virtual Universe** — a long-term concept initiative. This is separate from the Dall-Tech services website above; no public implementation repository has been verified.
 
 ## Collaboration and learning
@@ -54,20 +58,6 @@ Computer Science undergraduate.
 ## Professional interests
 
 AI governance, technical AI safety, cybersecurity, intelligent systems, software architecture, and responsible AI deployment.
-
-## Contact
-
-- GitHub: [dev-Simon-EM](https://github.com/dev-Simon-EM)
-## Education
-
-Computer Science undergraduate.
-
-## Professional interests
-
-- AI governance
-- Cybersecurity
-- Intelligent systems
-- Responsible AI deployment
 
 ## Contact
 
